@@ -1,11 +1,12 @@
-product_name,rating,review_text,date
-"Product A",5,"Excellent product! Highly recommend.",2026-03-28
-"Product B",4,"Good quality, but a bit expensive.",2026-03-28
-"Product C",2,"Not what I expected. Poor quality.",2026-03-28
-"Product D",3,"Average product. Could be better.",2026-03-28
-"Product E",1,"Terrible experience. Would not buy again.",2026-03-28
-"Product F",4,"Value for money. Satisfied with my purchase.",2026-03-28
-"Product G",5,"Outstanding! Exceeded my expectations.",2026-03-28
-"Product H",3,"Okay product. Meets basic needs.",2026-03-28
-"Product I",2,"Disappointing. Not worth the price.",2026-03-28
-"Product J",5,"Awesome! Would definitely buy again.",2026-03-28
+| Product Name | Rating | Review Text | Review Date |
+|--------------|--------|-------------|--------------|
+| Product A    | 5      | Excellent product! Highly recommend it. | 2026-03-20 |
+| Product B    | 4      | Good value for money, but has some issues. | 2026-03-21 |
+| Product C    | 3      | Average, not what I expected. | 2026-03-22 |
+| Product D    | 5      | Fantastic! Will buy again. | 2026-03-23 |
+| Product E    | 2      | Did not meet my expectations. | 2026-03-24 |
+| Product F    | 1      | Very disappointed with this product. | 2026-03-25 |
+| Product G    | 4      | Good, but shipping was delayed. | 2026-03-26 |
+| Product H    | 3      | It's okay, I've had better. | 2026-03-27 |
+| Product I    | 5      | Love it! Perfect for my needs. | 2026-03-28 |
+| Product J    | 4      | Satisfied overall, minor flaws. | 2026-03-29 |
